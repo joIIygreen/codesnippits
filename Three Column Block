@@ -1,0 +1,13 @@
+<div class="one-third first"><img src="#" alt="alt text goes here"><h3>Title Goes Here</h3>
+<p>Body Paragraph Goes Here</p>
+</div>
+
+<div class="one-third"><img src="#" alt="Alt Text Goes Here"><h3>Title Goes Here</h3>
+<p>Body Paragraph Goes Here</p>
+</div>
+
+<div class="one-third"><img src="#" alt="Alt Text Goes Here"><h3>Title Goes Here</h3>
+<p>Body Paragraph Goes Here</p>
+</div>
+
+<div><a class="button">Button CTA Goes Here</a></div>
